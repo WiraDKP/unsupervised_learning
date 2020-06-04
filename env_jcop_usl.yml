@@ -3,6 +3,7 @@ name: jcop_usl
 channels:
 - conda-forge
 - anaconda 
+- pytorch
 
 dependencies:
 # Essential
@@ -26,6 +27,12 @@ dependencies:
 - plotly==4.6.0
 # NLP
 - nltk==3.4.1
+- torchtext==0.5.0
+# Deep Learning
+- pytorch==1.4
+# Computer Vision
+- torchvision==0.5.0
+- pillow==5.4.1
 # Clustering
 - pyclustering==0.9.3.1
 
@@ -34,5 +41,6 @@ dependencies:
   - xgboost==0.80
   - scikit-optimize==0.7.4
   - jcopml==1.1.7
-  - luwiji==1.1.1
+  - jcopdl==1.1.1
+  - luwiji==1.1.2
   - kmodes==0.10.2

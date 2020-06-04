@@ -2,8 +2,9 @@ import subprocess
 
 req = {
     "python", "tqdm", "nb_conda_kernels", "pip", "ipython", "numpy", "scipy", "pandas", 
-    "scikit-learn", "matplotlib", "seaborn", "ipywidgets", "nltk", 
-    "xgboost", "scikit-optimize", "jcopml", "luwiji", "pillow", "kmodes"
+    "scikit-learn", "matplotlib", "seaborn", "ipywidgets", "nltk", "umap-learn",
+    "xgboost", "scikit-optimize", "jcopml", "luwiji", "pillow", "kmodes", "pytorch",
+    "torchvision", "torchtext"
 }
 env_name = "jcop_usl"
 working_folder = "unsupervised_learning"

@@ -72,7 +72,11 @@ Setelah kita selesai mempelajari [Course 5 dan Course 6](https://www.github.com/
     ```
     python check_installation.py
     ```
-- Jika sudah aman, maka kita bisa mulai belajar. Semangat!
-
-## Step 6: Instalasi Environment tambahan (khusus untuk materi Deep Unsupervised Learning)
-- Kalau belum memiliki environment `jcop` dari Course Deep Learning, mohon install environment itu dengan instruksi yang disediakan di [Course 5 dan Course 6](https://www.github.com/wiradkp/deep_learning). File yang dibutuhkan hanyalah file conda environment nya (.yml).
+- Jika sudah aman, maka akan muncul keterangan berikut, dan kita bisa mulai belajar. Semangat!
+    ```
+    ✓ jupyter telah terinstall dengan baik
+    ✓ nb_conda_kernels telah terinstall dengan baik
+    ✓ Environment jcop_usl terdeteksi
+    ✓ Package telah terinstall dengan baik di dalam environment jcop_usl
+    ✓ Instalasi berjalan dengan baik. Selamat belajar!
+    ```
