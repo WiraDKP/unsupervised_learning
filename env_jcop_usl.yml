@@ -42,5 +42,5 @@ dependencies:
   - scikit-optimize==0.7.4
   - jcopml==1.1.7
   - jcopdl==1.1.1
-  - luwiji==1.1.2
+  - luwiji==1.1.6
   - kmodes==0.10.2
